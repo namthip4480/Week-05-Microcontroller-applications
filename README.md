@@ -178,18 +178,18 @@ ESP32-Architecture-Lab/          # โฟลเดอร์หลักของ
 
 ### คำถามทบทวน
 
-## 1. Docker Commands: คำสั่ง `docker-compose up -d` และ `docker-compose exec esp32-dev bash` ทำอะไร?
+# 1. Docker Commands: คำสั่ง `docker-compose up -d` และ `docker-compose exec esp32-dev bash` ทำอะไร?
 - อธิบายการทำงานของคำสั่ง `docker-compose up -d` และ `docker-compose exec esp32-dev bash` ว่าทำอะไรในกระบวนการตั้งค่าและใช้งาน Docker container ในการพัฒนา ESP32 และทำไมถึงใช้คำสั่งเหล่านี้
 
-## 2. ESP-IDF Tools: เครื่องมือไหนจาก Lab4 ที่จะใช้ในการ build โปรแกรม ESP32?
+# 2. ESP-IDF Tools: เครื่องมือไหนจาก Lab4 ที่จะใช้ในการ build โปรแกรม ESP32?
 - อธิบายว่าเครื่องมือไหนที่ใช้จาก **ESP-IDF** ใน Lab4 ที่จะใช้ในการคอมไพล์และอัปโหลดโปรแกรมไปยัง ESP32 โดยใช้คำสั่งและกระบวนการที่เกี่ยวข้อง
 
-## 3. New Tools: เครื่องมือใหม่ที่ติดตั้ง (tree, htop) ใช้ทำอะไร?
+# 3. New Tools: เครื่องมือใหม่ที่ติดตั้ง (tree, htop) ใช้ทำอะไร?
 - อธิบายการใช้เครื่องมือ **`tree`** และ **`htop`** ในการพัฒนาและการตรวจสอบระบบภายใน Docker container หรือเครื่องคอมพิวเตอร์ที่ใช้ในการพัฒนา
   - **`tree`**: ใช้สำหรับอะไร
   - **`htop`**: ใช้สำหรับอะไร
 
-## 4. Architecture Focus: การศึกษา ESP32 architecture แตกต่างจากการทำ arithmetic ใน Lab4 อย่างไร?
+# 4. Architecture Focus: การศึกษา ESP32 architecture แตกต่างจากการทำ arithmetic ใน Lab4 อย่างไร?
 - เปรียบเทียบการศึกษา **ESP32 architecture** ใน Lab5 กับการทำ **arithmetic calculations** ที่ทำใน Lab4 ซึ่งเน้นการคำนวณทางคณิตศาสตร์ การจัดการ CPU และ memory และการเชื่อมต่อกับ peripherals ต่างๆ ใน ESP32
 
 ### ผลลัพธ์ที่คาดหวัง
